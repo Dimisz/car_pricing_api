@@ -1,0 +1,8 @@
+// generate modules for users and reports
+nest g module users 
+
+// generate controllers for users and reports 
+nest g controller users 
+
+// generate services for users and reports 
+nest g service users
